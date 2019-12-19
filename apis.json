@@ -1,0 +1,51 @@
+{
+    "name": "Hypercat",
+    "description": "<p>HyperCat is a hypermedia catalogue format designed for exposing information about IoT assets over the web.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hypercat-logo.png",
+    "tags": [
+        "api service provider",
+        "api tools",
+        "discovery",
+        "have api",
+        "internet of things"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hypercat\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Hypercat",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hypercat-logo.png",
+            "humanURL": "http:\/\/www.hypercat.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hypercat-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.hypercat.io\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.hypercat.io\/1\/feed"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hypercatiot"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.hypercat.io\/"
+        }
+    ]
+}
